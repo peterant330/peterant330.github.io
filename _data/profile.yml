@@ -1,65 +1,51 @@
-primary_name: "Rongsheng Wang"
+primary_name: "Shizhan Gong"
 secondary_name: ""
-navbar_name: "Rongsheng Wang's Home Page"
+navbar_name: "Shizhan Gong's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/mpu_master.png" alt="Macao Polytechnic University" class="inline-badge"/></span> M.S., Macao Polytechnic University (2024)'
+  - '<span class="no-break"><img src="assets/images/badges/mpu_master.png" alt="Macao Polytechnic University" class="inline-badge"/></span> Ph.D. student, the Chinese University of Hong Kong'
 
-email: "wrs6@88.com"
-gscholar: SSaBaioAAAAJ
-sscholar: Rongsheng-Wang/2261313297
-github: wangrongsheng
-twitter: RongshengWang
-# wechat_qrcode: assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-zhihu: wang-rong-sheng-74
-resume: assets/cv/Resume_RongshengWang.pdf
+email: "peterant@163.com"
+gscholar: gYkpfCMAAAAJ
+github: peterant330
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  I am Rongsheng Wang, I used to study at Macao Polytechnic University (MPU) and work under the supervision of Prof.<a href="https://scholar.google.com/citations?hl=zh-CN&user=lLg3WRkAAAAJ">Tao Tan</a>. My research interests are computer vision, LLM, trusted LLM, RAG, and Agent systems. I am also interested in generative data research. I am currently seeking a PhD opportunity. <br> I publish a lot of open source projects on <a href="https://github.com/WangRongsheng">🔗Github</a>. I shared some of the datasets and model weights used by the project at <a href="https://huggingface.co/wangrongsheng">🔗HuggingFace</a>. I likewise like to post some small-parameter LM at <a href="https://ollama.com/wangrongsheng">🔗Ollama</a> to help people use it locally.
+  I am Shizhan Gong, I am a Ph.D. student at the Chinese University of Hong Kong (CUHK) and work under the supervision 
+  of Prof.<a href="https://www.cse.cuhk.edu.hk/~qdou/">Qi Dou</a> 
+  and Prof.<a href="https://www.cse.cuhk.edu.hk/~farnia/">Farzan Farnia</a>. 
+  My research interests are explainable computer vision and its applications in medical image analysis.
 
 show_portrait: true
-portrait_url: assets/images/photos/profile_wrs.jpg
+portrait_url: assets/images/photos/profile_gsz.jpg
 portrait_caption: >-
-  我是王荣胜，欢迎访问我的主页~
+  我是龚施展，欢迎访问我的主页~
 
 education:
-- name: Macao Polytechnic University
+- name: the Chinese University of Hong Kong
   logo: assets/images/badges/mpu_master.png
-  position: M.S. in Big Data and Internet of Things
-  date: Sep. 2022 - Jul. 2024
-- name: Henan Polytechnic University
+  position: Ph.D. in Computer Science and Engineering
+  date: Sep. 2022 - Jul. 2026
+- name: New York University
   logo: assets/images/badges/hpu_bs.png
-  position: B.S. in Computer Science (AI)
-  date: Sep. 2018 - Jul. 2022
+  position: M.S. in Data Science
+  date: Sep. 2018 - Jul. 2020
+- name: Tsinghua University
+  logo: assets/images/badges/hpu_bs.png
+  position: B.Eng. in Industrial Engineering & Statistics
+  date: Sep. 2014 - Jul. 2018
   
 experience:
-- name: Qiyuan.Tech
+- name: Tencent.Inc
   logo: assets/images/badges/qiyuan.png
-  position: CTO, Reasercher
-  date: Oct. 2023 - Now
-- name: HKUST (GZ) 
-  logo: assets/images/badges/hkust-gz.png
-  position: Research Assistant (Supervisor is <a href="https://web.archive.org/web/20240717103203/https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai">Yun Bai</a> and <a href="https://cee.rutgers.edu/xiang-liu">Xiang Liu</a>)
-  date: Feb. 2024 -	May 2024
+  position: Machine Leanrning Engineer
+  date: Jul.2020 - March 2022
 
 
 awards:
-- name: First Prize of Baidu PaddlePaddle AGI Hackathon
+- name: Champion of <a href="http://cmr.miccai.cloud/">MICCAI Extreme Cardiac MRI Analysis Challenge under Respiratory Motion</a> (Task-2), 2022.
   date: 2024
-- name: Third Prize of Digital Medical Technology and Application Innovation Competition
-  date: 2023
-- name: Third Prize of Baichuan Intelligence and Amazon Cloud AGI Hackathon
-  date: 2023
-- name: Silver of Kaggle RSNA Screening Mammography Breast Cancer Detection
-  date: 2023
-- name: Winner of IEEE UV 2022 "Vision Meets Algae" Object Detection Challenge
-  date: 2022
-- name: <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C">Baidu PaddlePaddle Developers Experts</a>
-  date: 2021
 
 service:
 - name: Reviewer of <a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics (JBHI)</a>

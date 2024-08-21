@@ -1,5 +1,5 @@
 ---
-title:          3DSAM-adapter Holistic Adaptation of SAM from 2D to 3D for Promptable Tumor Segmentation
+title:          "3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Tumor Segmentation"
 date:           2024-08-21 00:01:00 +0800
 selected:       true
 pub:            "Medical Image Analysis"

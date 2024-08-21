@@ -9,7 +9,7 @@ pub:            "The British Machine Vision Conference (BMVC)"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2024"
 
-#abstract: >-
+# abstract: >-
 #  We introduce Xiaoqing, an LLM model tailored for glaucoma developed through comparative and experiential experiments, demonstrating it can better serve glaucoma patients and medical research compared to general and clinical AI assistants by providing more informative and readable responses to glaucoma-related questions in Chinese.
   
 cover:          assets/images/covers/xiaoqing.jpg

@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Shizhan Gong's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/mpu_master.png" alt="Macao Polytechnic University" class="inline-badge"/></span> Ph.D. student, the Chinese University of Hong Kong'
+  - '<span class="no-break"><img src="assets/images/badges/cuhk-logo.png" alt="Macao Polytechnic University" class="inline-badge"/></span> Ph.D. student, the Chinese University of Hong Kong'
 
 email: "peterant@163.com"
 gscholar: gYkpfCMAAAAJ
@@ -24,22 +24,22 @@ portrait_caption: >-
 
 education:
 - name: the Chinese University of Hong Kong
-  logo: assets/images/badges/mpu_master.png
+  logo: assets/images/badges/cuhk-logo.png
   position: Ph.D. in Computer Science and Engineering
   date: Sep. 2022 - Jul. 2026
 - name: New York University
-  logo: assets/images/badges/hpu_bs.png
+  logo: assets/images/badges/NYU.jpg
   position: M.S. in Data Science
   date: Sep. 2018 - Jul. 2020
 - name: Tsinghua University
-  logo: assets/images/badges/hpu_bs.png
+  logo: assets/images/badges/THU.jpg
   position: B.Eng. in Industrial Engineering & Statistics
   date: Sep. 2014 - Jul. 2018
   
 experience:
 - name: Tencent.Inc
-  logo: assets/images/badges/qiyuan.png
-  position: Machine Leanrning Engineer
+  logo: assets/images/badges/tencent.jpg
+  position: Machine Learning Engineer
   date: Jul.2020 - March 2022
 
 

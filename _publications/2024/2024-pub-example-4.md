@@ -6,7 +6,7 @@ pub:            "The British Machine Vision Conference (BMVC)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2024"
 
 #abstract: >-

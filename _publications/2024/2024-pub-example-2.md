@@ -13,15 +13,10 @@ abstract: >-
   
 cover:          assets/images/covers/xrayglm.png
 authors:
-  - Lin Li
-  - Rongsheng Wang
-  - Qimin Yang
-  - Jiexin Chen
-  - Patrick Cheong-Iao Pang
-  - Yapeng Wang
-  - Ka-Hou Chan
-  - Tao Tan
-  - Jie Ma†
+  - Shizhan Gong
+  - Qi Dou
+  - Farzan Farnia
+  - 
 links:
-  Code: https://openaccess.thecvf.com/content/CVPR2024/html/Gong_Structured_Gradient-based_Interpretations_via_Norm-Regularized_Adversarial_Training_CVPR_2024_paper.html
+  Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Gong_Structured_Gradient-based_Interpretations_via_Norm-Regularized_Adversarial_Training_CVPR_2024_paper.html
 ---

@@ -10,7 +10,7 @@ pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal
 pub_date:       "2024"
 
 
-cover:          assets/images/covers/3mt.png
+cover:          assets/images/covers/tmi24.png
 authors:
   - Shizhan Gong 
   - Yonghao Long

@@ -8,7 +8,7 @@ pub:            "The IEEE/CVF Conference on Computer Vision and Pattern Recognit
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2024"
 
-cover:          assets/images/covers/xrayglm.png
+cover:          assets/images/covers/cvpr24.png
 authors:
   - Shizhan Gong
   - Qi Dou

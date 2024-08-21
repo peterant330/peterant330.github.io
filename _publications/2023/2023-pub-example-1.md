@@ -6,7 +6,7 @@ pub:            "Information Processing in Medical Imaging (IPMI)"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-success">Oral</span>'
 pub_date:       "2023"
 
-cover:          assets/images/covers/pctmf.png
+cover:          assets/images/covers/diffusionmls.png
 authors:
   - Shizhan Gong 
   - Cheng Chen

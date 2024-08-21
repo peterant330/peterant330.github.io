@@ -8,7 +8,7 @@ pub:            "IEEE International Symposium on Biomedical Imaging (ISBI)"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2024"
 
-cover:          assets/images/covers/lcfm_lc.png
+cover:          assets/images/covers/ltr.png
 authors:
   - Shizhan Gong
   - Yuan Zhong

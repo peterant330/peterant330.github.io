@@ -1,9 +1,9 @@
 ---
-title:          PCTMF-Net： Heart Sound Classification with Parallel CNNs-Transformer and Second-Order Spectral Analysis
+title:          Diffusion model based semi-supervised learning on brain hemorrhage images for efficient midline shift quantification
 date:           2023-08-01 00:01:00 +0800
 selected:       true
-pub:            "The Visual Computer"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
+pub:            "Information Processing in Medical Imaging (IPMI) 2023 (oral)"
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2023"
 abstract: >-
   We propose a Parallel CNNs-Transformer network with multi-scale feature context aggregation (PCTMF-Net) for electrocardiogram heart sound classification, which combines CNNs and a transformer encoder to extract hierarchical features and achieves state-of-the-art performance on publicly available datasets.
@@ -18,6 +18,5 @@ authors:
   - ChanTong Lam
   - Tao Tan†
 links:
-  Paper: https://link.springer.com/article/10.1007/s00371-023-03031-5
-  Cite: assets/bibtex/wang2023pctm.bib
+  Paper: https://link.springer.com/chapter/10.1007/978-3-031-34048-2_6
 ---

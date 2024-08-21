@@ -1,6 +1,6 @@
 ---
 title:          Diffusion model based semi-supervised learning on brain hemorrhage images for efficient midline shift quantification
-date:           2023-08-01 00:01:00 +0800
+date:           2023-01-01 00:01:00 +0800
 selected:       true
 pub:            "Information Processing in Medical Imaging (IPMI)"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-success">Oral</span>'

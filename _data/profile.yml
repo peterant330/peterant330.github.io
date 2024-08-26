@@ -48,10 +48,10 @@ awards:
   date: 2022
 
 service:
-- name: Reviewer of NeurIPS.
-- name: Reviewer of Journal of  IEEE Transactions on Medical Imaging (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">TMI</a>), Medical Image Analysis (<a href="https://www.sciencedirect.com/journal/medical-image-analysis">MedIA</a>), Biomedical and Health Informatics (<a href="https://www.embs.org/jbhi/">JBHI</a>), Transaction on Biomedical Engineering <a href="https://www.embs.org/tbme/">(TBME)</a>.
+- name: Reviewer of NeurIPS, ICLR.
+- name: Reviewer of Journal of  IEEE Transactions on Medical Imaging (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">TMI</a>), Medical Image Analysis (<a href="https://www.sciencedirect.com/journal/medical-image-analysis">MedIA</a>), Biomedical and Health Informatics (<a href="https://www.embs.org/jbhi/">JBHI</a>), Transaction on Biomedical Engineering (<a href="https://www.embs.org/tbme/">TBME</a>).
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
 footer_text: >-
-  Copyright © 2024 <a href="https://github.com/WangRongsheng" target="_blank">Rongsheng Wang</a>. All Rights Reserved.
+  Design and source code from <a href="https://github.com/WangRongsheng" target="_blank">Rongsheng Wang</a>. 

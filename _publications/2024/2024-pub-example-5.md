@@ -22,5 +22,5 @@ authors:
   - Qi Dou
 
 links:
-  Paper: https://arxiv.org/abs/2306.13465
+  Paper: https://www.sciencedirect.com/science/article/abs/pii/S1361841524002494
 ---

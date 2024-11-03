@@ -16,6 +16,8 @@ short_bio: >-
   of Prof. <a href="https://www.cse.cuhk.edu.hk/~qdou/">Qi Dou</a> 
   and Prof. <a href="https://www.cse.cuhk.edu.hk/~farnia/">Farzan Farnia</a>. 
   My research interests are explainable computer vision and its applications in medical image analysis.
+  
+  <strong>I am seeking a postdoctoral position starting in August 2025. Please reach out if you have any openings that might be a good fit for me.</strong>
 
 show_portrait: true
 portrait_url: assets/images/photos/profile_gsz.jpg
@@ -48,7 +50,7 @@ awards:
   date: 2022
 
 service:
-- name: Reviewer of NeurIPS, ICLR.
+- name: Reviewer of NeurIPS, ICLR, AISTATS, RECOMB.
 - name: Reviewer of Journal of  IEEE Transactions on Medical Imaging (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">TMI</a>), Medical Image Analysis (<a href="https://www.sciencedirect.com/journal/medical-image-analysis">MedIA</a>), Biomedical and Health Informatics (<a href="https://www.embs.org/jbhi/">JBHI</a>), Transaction on Biomedical Engineering (<a href="https://www.embs.org/tbme/">TBME</a>).
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 

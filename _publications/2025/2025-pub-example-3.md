@@ -1,6 +1,5 @@
 ---
-title:          Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models
-
+title:          "Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models"
 date:           2025-05-01 00:03:00 +0800
 selected:       true
 pub:            "International Conference on Machine Learning (ICML)"

@@ -1,7 +1,7 @@
 ---
 title:          A Super-pixel-based Approach to the Stable Interpretation of Neural Networks
 date:           2024-07-24 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "The British Machine Vision Conference (BMVC)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

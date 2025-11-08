@@ -15,6 +15,6 @@ authors:
   - Qi Dou
   - Farzan Farnia
 links:
-#  Paper: https://openreview.net/forum?id=khuIvzxPRp
+  Paper: https://arxiv.org/abs/2506.02557
 #  Poster: assets/images/poster/icml2024-ws.jpeg
 ---

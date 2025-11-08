@@ -43,8 +43,8 @@ experience:
   date: Jul.2020 - March 2022
 
 service:
-- name: Reviewer of NeurIPS, ICLR, AISTATS, RECOMB.
-- name: Reviewer of International Journal of Computer Vision (<a href="https://link.springer.com/journal/11263">IJCV</a>), IEEE Transactions on Medical Imaging (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">TMI</a>), Medical Image Analysis (<a href="https://www.sciencedirect.com/journal/medical-image-analysis">MedIA</a>), Journal of Biomedical and Health Informatics (<a href="https://www.embs.org/jbhi/">JBHI</a>), Transaction on Biomedical Engineering (<a href="https://www.embs.org/tbme/">TBME</a>).
+- name: Reviewer of NeurIPS, ICLR, CVPR, AAAI, WACV, BMVC, AISTATS, RECOMB.
+- name: Reviewer of International Journal of Computer Vision (<a href="https://link.springer.com/journal/11263">IJCV</a>), Transactions on Machine Learning Research (<a href="https://jmlr.org/tmlr/">TMLR</a>), IEEE Transactions on Medical Imaging (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">TMI</a>), Medical Image Analysis (<a href="https://www.sciencedirect.com/journal/medical-image-analysis">MedIA</a>), Journal of Biomedical and Health Informatics (<a href="https://www.embs.org/jbhi/">JBHI</a>), Transaction on Biomedical Engineering (<a href="https://www.embs.org/tbme/">TBME</a>).
 
 awards:
 - name: Champion of <a href="http://cmr.miccai.cloud/">MICCAI Extreme Cardiac MRI Analysis Challenge under Respiratory Motion</a> (Task-2)

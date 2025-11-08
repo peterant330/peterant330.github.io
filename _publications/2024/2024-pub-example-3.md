@@ -1,7 +1,7 @@
 ---
 title:          Self-Supervised Cyclic Diffeomorphic Mapping for Soft Tissue Deformation Recovery in Robotic Surgery Scenes
 date:           2024-06-21 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "IEEE Transactions on Medical Imaging"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

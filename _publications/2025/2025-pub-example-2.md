@@ -15,6 +15,6 @@ authors:
   - Xiaofan Zhang
   - Qi Dou
 links:
-#  Paper: https://openreview.net/forum?id=khuIvzxPRp
+  Paper: https://link.springer.com/chapter/10.1007/978-3-031-96625-5_1
 #  Poster: assets/images/poster/icml2024-ws.jpeg
 ---

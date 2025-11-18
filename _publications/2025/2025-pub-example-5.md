@@ -1,5 +1,5 @@
 ---
-title:          "3DSAM-Adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Tumor Segmentation"
+title:          "Extreme Cardiac MRI Analysis under Respiratory Motion: Results of the CMRxMotion Challenge"
 date:           2025-11-18 00:01:00 +0800
 selected:       false
 pub:            "Medical Image Analysis"

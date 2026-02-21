@@ -1,7 +1,7 @@
 ---
 title:          Structured Gradient-based Interpretations via Norm-Regularized Adversarial Training
 date:           2024-02-24 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

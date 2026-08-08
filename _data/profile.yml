@@ -12,14 +12,9 @@ github: peterant330
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  <p>I am Shizhan Gong, I am a Ph.D. student at the Chinese University of Hong Kong (CUHK) and work under the supervision 
-  of Prof. <a href="https://www.cse.cuhk.edu.hk/~qdou/">Qi Dou</a> 
-  and Prof. <a href="https://www.cse.cuhk.edu.hk/~farnia/">Farzan Farnia</a>. 
-  My research interests are explainable computer vision and its applications in medical image analysis.
+  <p>I am Shizhan Gong, currently a quantitative researcher at Jump Trading. I received my Ph.D. in Computer Science and Engineering from The Chinese University of Hong Kong (CUHK). My research interests include trustworthy AI and multimodal learning. Please feel free to connect if you are interested in collaboration.
   </p>
-  <p>
-  <span style="color: red;">I’m graduating in Fall 2026. Feel free to email me if you’re hiring research scientists!</span>
-  </p>
+
 show_portrait: true
 portrait_url: assets/images/photos/profile_gsz.jpg
 portrait_caption: >-
@@ -40,6 +35,10 @@ education:
   date: Sep. 2014 - Jul. 2018
   
 experience:
+- name: Jump Trading
+  logo: assets/images/badges/jump.png
+  position: Quantitative Researcher
+  date: Aug.2026 - Current
 - name: Tencent
   logo: assets/images/badges/tencent.jpg
   position: Machine Learning Engineer
@@ -47,7 +46,7 @@ experience:
 
 service:
 - name: Reviewer of NeurIPS, ICLR, CVPR, AAAI, WACV, BMVC, AISTATS, RECOMB.
-- name: Reviewer of International Journal of Computer Vision (<a href="https://link.springer.com/journal/11263">IJCV</a>), Transactions on Machine Learning Research (<a href="https://jmlr.org/tmlr/">TMLR</a>), IEEE Transactions on Medical Imaging (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">TMI</a>), Medical Image Analysis (<a href="https://www.sciencedirect.com/journal/medical-image-analysis">MedIA</a>), Journal of Biomedical and Health Informatics (<a href="https://www.embs.org/jbhi/">JBHI</a>), Transaction on Biomedical Engineering (<a href="https://www.embs.org/tbme/">TBME</a>).
+- name: Reviewer of Transactions on Pattern Analysis and Machine Intelligence (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>), International Journal of Computer Vision (<a href="https://link.springer.com/journal/11263">IJCV</a>), Transactions on Machine Learning Research (<a href="https://jmlr.org/tmlr/">TMLR</a>), IEEE Transactions on Medical Imaging (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">TMI</a>), Medical Image Analysis (<a href="https://www.sciencedirect.com/journal/medical-image-analysis">MedIA</a>), Journal of Biomedical and Health Informatics (<a href="https://www.embs.org/jbhi/">JBHI</a>), Transaction on Biomedical Engineering (<a href="https://www.embs.org/tbme/">TBME</a>).
 
 awards:
 - name: Champion of <a href="http://cmr.miccai.cloud/">MICCAI Extreme Cardiac MRI Analysis Challenge under Respiratory Motion</a> (Task-2)

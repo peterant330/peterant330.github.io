@@ -16,6 +16,6 @@ authors:
   - Chen Ma
   - Qi Dou
 links:
-#  Paper: https://openreview.net/forum?id=khuIvzxPRp
+  Paper: https://arxiv.org/abs/2604.04500
 #  Poster: assets/images/poster/icml2024-ws.jpeg
 ---
